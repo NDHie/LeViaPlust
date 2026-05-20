@@ -33,7 +33,7 @@ const manifest = {
         {
             type: "movie", 
             id: "lvp_movie", 
-            name: "🎬 LeViaPlust: LeViaPlust Lẻ",
+            name: "🎬 Lẻ",
             extra: [
                 { name: "search", isRequired: false },
                 { name: "genre", isRequired: false, options: [...Object.keys(GENRES), ...Object.keys(COUNTRIES)] }
@@ -42,7 +42,7 @@ const manifest = {
         {
             type: "series", 
             id: "lvp_series", 
-            name: "📺 LeViaPlust: LeViaPlust Bộ",
+            name: "📺 Bộ",
             extra: [
                 { name: "search", isRequired: false },
                 { name: "genre", isRequired: false, options: [...Object.keys(GENRES), ...Object.keys(COUNTRIES)] }
