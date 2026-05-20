@@ -1,6 +1,5 @@
 const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 
-// --- CẤU HÌNH CÁC BỘ LỌC (Đã bỏ lọc Năm) ---
 const GENRES = { 
     "Hành Động": "hanh-dong", 
     "Viễn Tưởng": "vien-tuong", 
