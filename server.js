@@ -25,7 +25,7 @@ const manifest = {
     id: "org.leviaplust.ultimate",
     version: "3.1.0",
     name: "LeViaPlust VN Ultimate",
-    description: "LeViaPlust mới, LeViaPlust bộ, LeViaPlust lẻ, Hoạt hình (Full Filter)",
+    description: "Đã đang chuẩn bị sắp sẽ cố gắng",
     resources: ["catalog", "meta", "stream"],
     types: ["movie", "series"],
     idPrefixes: ["lvp_"], // Đổi tiền tố nhận diện thành lvp_
