@@ -2,10 +2,10 @@ const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 
 // --- CẤU HÌNH MANIFEST ---
 const manifest = {
-    id: "org.kkphim.stremio",
+    id: "org.leviaplust.stremio",
     version: "1.0.0",
-    name: "KKPhim VN",
-    description: "Xem phim Vietsub / Thuyết minh từ KKPhim",
+    name: "leviaplust",
+    description: "leviaplust",
     resources: ["catalog", "meta", "stream"],
     types: ["movie", "series"],
     idPrefixes: ["kkp_"],
